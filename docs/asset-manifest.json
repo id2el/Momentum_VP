@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/id2el/Momentum.git/static/css/main.8d382767.css",
+    "main.js": "/id2el/Momentum.git/static/js/main.9a98f187.js",
+    "static/js/453.94444b87.chunk.js": "/id2el/Momentum.git/static/js/453.94444b87.chunk.js",
+    "index.html": "/id2el/Momentum.git/index.html",
+    "main.8d382767.css.map": "/id2el/Momentum.git/static/css/main.8d382767.css.map",
+    "main.9a98f187.js.map": "/id2el/Momentum.git/static/js/main.9a98f187.js.map",
+    "453.94444b87.chunk.js.map": "/id2el/Momentum.git/static/js/453.94444b87.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d382767.css",
+    "static/js/main.9a98f187.js"
+  ]
+}
